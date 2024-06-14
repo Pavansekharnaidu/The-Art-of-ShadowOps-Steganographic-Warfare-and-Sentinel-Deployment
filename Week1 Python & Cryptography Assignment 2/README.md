@@ -10,3 +10,6 @@
 # Elgamel.py
 
 ![Sample Image](https://drive.google.com/uc?export=view&id=1nP2ERpFEGXDr69EI9EAp1G-dZBeDoQ5R)
+
+
+Please look at the report for clear explanation of all these 3 systems
