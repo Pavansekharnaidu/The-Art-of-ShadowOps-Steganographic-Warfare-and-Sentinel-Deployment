@@ -5,8 +5,8 @@
 This is a sample project description.
 
 # Paillier.py
-https://drive.google.com/file/d/1gelgwNMNf8QoNGxChldLH6QXisF6cxiH/view?usp=sharing
 
+![Sample Image](https://drive.google.com/uc?export=view&id=1gelgwNMNf8QoNGxChldLH6QXisF6cxiH)
 This is a sample project description.
 
 # Elgamel.py
